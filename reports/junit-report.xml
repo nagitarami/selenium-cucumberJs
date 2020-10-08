@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="ingresar-a-la-pagina-del-buscador-de-google-y-realizar-una-compra-en-falabella;ingresar-a-google-y-buscar-la-pagina-de-falabella" tests="8" failures="0" skipped="0">
+        <properties>
+            <property name="URI" value="F:/cucumber/selenium-cucumberjs/features/falabella.feature">
+            </property>
+        </properties>
+        <testcase name="Given Ingreso a la pagina de google" classname="ingresar-a-la-pagina-del-buscador-de-google-y-realizar-una-compra-en-falabella;ingresar-a-google-y-buscar-la-pagina-de-falabella" time="6.7045351">
+        </testcase>
+        <testcase name="And Realizar la busqueda de la pagina falabella.cl" classname="ingresar-a-la-pagina-del-buscador-de-google-y-realizar-una-compra-en-falabella;ingresar-a-google-y-buscar-la-pagina-de-falabella" time="0.1739443">
+        </testcase>
+        <testcase name="And Hacer click en boton Buscar con google y en falabella.cl" classname="ingresar-a-la-pagina-del-buscador-de-google-y-realizar-una-compra-en-falabella;ingresar-a-google-y-buscar-la-pagina-de-falabella" time="5.9249173">
+        </testcase>
+        <testcase name="When Visualizar consola Nintendo Switch" classname="ingresar-a-la-pagina-del-buscador-de-google-y-realizar-una-compra-en-falabella;ingresar-a-google-y-buscar-la-pagina-de-falabella" time="8.9998124">
+        </testcase>
+        <testcase name="Then Se agrega a la bolsa de compra" classname="ingresar-a-la-pagina-del-buscador-de-google-y-realizar-una-compra-en-falabella;ingresar-a-google-y-buscar-la-pagina-de-falabella" time="5.5654858">
+        </testcase>
+        <testcase name="And Selecciona garantia extendida" classname="ingresar-a-la-pagina-del-buscador-de-google-y-realizar-una-compra-en-falabella;ingresar-a-google-y-buscar-la-pagina-de-falabella" time="2.5422812">
+        </testcase>
+        <testcase name="And Agregar 2 consolas" classname="ingresar-a-la-pagina-del-buscador-de-google-y-realizar-una-compra-en-falabella;ingresar-a-google-y-buscar-la-pagina-de-falabella" time="0.6648053">
+        </testcase>
+        <testcase name="And Ingresar Ir a comprar" classname="ingresar-a-la-pagina-del-buscador-de-google-y-realizar-una-compra-en-falabella;ingresar-a-google-y-buscar-la-pagina-de-falabella" time="5.3445041">
+        </testcase>
+    </testsuite>
+</testsuites>

@@ -1,0 +1,138 @@
+[
+  {
+    "elements": [
+      {
+        "id": "ingresar-a-la-pagina-del-buscador-de-google-y-realizar-una-compra-en-falabella;ingresar-a-google-y-buscar-la-pagina-de-falabella",
+        "keyword": "Scenario",
+        "line": 2,
+        "name": "Ingresar a google y buscar la pagina de falabella",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "Ingreso a la pagina de google",
+            "result": {
+              "status": "passed",
+              "duration": 6704535100
+            },
+            "line": 3,
+            "match": {
+              "location": "F:\\cucumber\\selenium-cucumberjs\\step-definitions\\browser_steps.js:4"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Realizar la busqueda de la pagina falabella.cl",
+            "result": {
+              "status": "passed",
+              "duration": 173944300
+            },
+            "line": 4,
+            "match": {
+              "location": "F:\\cucumber\\selenium-cucumberjs\\step-definitions\\browser_steps.js:8"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Hacer click en boton Buscar con google y en falabella.cl",
+            "result": {
+              "status": "passed",
+              "duration": 5924917300
+            },
+            "line": 5,
+            "match": {
+              "location": "F:\\cucumber\\selenium-cucumberjs\\step-definitions\\browser_steps.js:12"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "Visualizar consola Nintendo Switch",
+            "result": {
+              "status": "passed",
+              "duration": 8999812400
+            },
+            "line": 6,
+            "match": {
+              "location": "F:\\cucumber\\selenium-cucumberjs\\step-definitions\\browser_steps.js:17"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "Se agrega a la bolsa de compra",
+            "result": {
+              "status": "passed",
+              "duration": 5565485800
+            },
+            "line": 7,
+            "match": {
+              "location": "F:\\cucumber\\selenium-cucumberjs\\step-definitions\\browser_steps.js:26"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Selecciona garantia extendida",
+            "result": {
+              "status": "passed",
+              "duration": 2542281200
+            },
+            "line": 8,
+            "match": {
+              "location": "F:\\cucumber\\selenium-cucumberjs\\step-definitions\\browser_steps.js:31"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Agregar 2 consolas",
+            "result": {
+              "status": "passed",
+              "duration": 664805300
+            },
+            "line": 9,
+            "match": {
+              "location": "F:\\cucumber\\selenium-cucumberjs\\step-definitions\\browser_steps.js:37"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "Ingresar Ir a comprar",
+            "result": {
+              "status": "passed",
+              "duration": 5344504100
+            },
+            "line": 10,
+            "match": {
+              "location": "F:\\cucumber\\selenium-cucumberjs\\step-definitions\\browser_steps.js:41"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 1500063900
+            },
+            "hidden": true,
+            "match": {
+              "location": "F:\\cucumber\\selenium-cucumberjs\\node_modules\\selenium-cucumber-js\\runtime\\world.js:250"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "ingresar-a-la-pagina-del-buscador-de-google-y-realizar-una-compra-en-falabella",
+    "keyword": "Feature",
+    "line": 1,
+    "name": "Ingresar a la pagina del buscador de google y realizar una compra en falabella",
+    "tags": [],
+    "uri": "F:/cucumber/selenium-cucumberjs/features/falabella.feature"
+  }
+]
